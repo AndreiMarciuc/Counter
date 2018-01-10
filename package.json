@@ -1,0 +1,20 @@
+{
+  "name": "counter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express-session": "^1.15.6",
+    "import": "0.0.6",
+    "packages": "0.0.8",
+    "request": "^2.83.0",
+    "require": "^2.4.20",
+    "session": "^0.1.0"
+  }
+}
